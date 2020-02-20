@@ -97,8 +97,8 @@
 				7C2ED6222338C17A00BCA62F /* ListGenresViewController.swift */,
 				7C2ED6242338C41900BCA62F /* ListGenresInteractor.swift */,
 				7C2ED6262338CE6500BCA62F /* ListGenresPresenter.swift */,
-				7C2ED62A2338D68B00BCA62F /* ListGenresRouter.swift */,
 				7C2ED6282338D5D500BCA62F /* ListGenresModels.swift */,
+				7C2ED62A2338D68B00BCA62F /* ListGenresRouter.swift */,
 			);
 			path = ListGenres;
 			sourceTree = "<group>";
@@ -110,8 +110,8 @@
 				7C4C69AD233F5A9000B9C5C2 /* ShowGenreViewController.swift */,
 				7C4C69B1233F6B5100B9C5C2 /* ShowGenreInteractor.swift */,
 				7C4C69B3233F6B6B00B9C5C2 /* ShowGenrePresenter.swift */,
-				7C4C69AF233F6B0700B9C5C2 /* ShowGenreRouter.swift */,
 				7C4C69B5233F6B8600B9C5C2 /* ShowGenreModels.swift */,
+				7C4C69AF233F6B0700B9C5C2 /* ShowGenreRouter.swift */,
 			);
 			path = ShowGenre;
 			sourceTree = "<group>";

@@ -8,11 +8,8 @@
 
 
 enum ListGenresModels {
-    struct FetchRequest {
-        
-    }
     
-    struct SearchRequest {
+    struct FetchRequest {
         
     }
     
